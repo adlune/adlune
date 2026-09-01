@@ -9,9 +9,7 @@
 </div>
 
 ---
-
-### `> cat about.txt`
-
+### `> cat aboutme.txt`
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
@@ -22,8 +20,6 @@
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-### `> ls ~/toolkit/`
 
 <div align="center">
 
@@ -47,8 +43,6 @@
 
 </div>
 
-### `> cat interests.txt`
-
 *Tools and technologies I'm currently exploring:*
 
 ```
@@ -58,4 +52,5 @@ Cybersecurity fundamentals
 Windows/Linux services fundamentals
 Networking
 Web security
+Neural Networks
 ```
