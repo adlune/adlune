@@ -2,24 +2,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&repeat=true&width=540&height=55&lines=%24+adlune;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&repeat=true&width=540&height=55&lines=%24+adlune;Data+Science+%2F+Cybersecurity+%2F+Research)](https://git.io/typing-svg)
 
-**`Universidad Nacional Autónoma de México · ENES Morelia · Data Science`**
+**`Universidad Nacional Autónoma de México · ENES Morelia`**
 
 </div>
 
 ---
 ### `> cat aboutme.txt`
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   ▸ Data Science undergraduate @ UNAM                        │
-│   ▸ Cybersecurity · OSINT (hobby) · Research                 │
-│   ▸ Machine Learning                                         │
-│   ▸ LANG=es_MX.UTF-8 | en_US.UTF-8                           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 <div align="center">
 
