@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&repeat=true&width=540&height=55&lines=%24+adlune;Data+Science+%2F+Cybersecurity+%2F+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&repeat=true&width=540&height=55&lines=%24+adlune;)](https://git.io/typing-svg)
 
 **`Universidad Nacional Autónoma de México · ENES Morelia`**
 
@@ -25,6 +25,7 @@
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-1a1a1a?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2d2d2d?style=for-the-badge)
 
 **`domains/`**
 
