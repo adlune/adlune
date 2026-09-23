@@ -21,7 +21,6 @@
 
 ![Data Science](https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2d2d2d?style=for-the-badge&logo=kalilinux&logoColor=white)
-![UEBA](https://img.shields.io/badge/UEBA-2d2d2d?style=for-the-badge)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-1a1a1a?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
