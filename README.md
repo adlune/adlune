@@ -1,11 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/horizon-dark.svg">
-  <img alt="A horizon made of data points, with a light rising behind it" src="assets/horizon-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="adlune, above a horizon made of data points with a light rising behind it" src="assets/banner-light.svg" width="100%">
 </picture>
 
-`adlune:~$ whoami`
-
-**Adrian Lara** · Data Science undergraduate at UNAM, working on data science and cybersecurity.
+Data Science undergraduate at UNAM, working on data science and cybersecurity.
 
 `adlune:~$ ls ~`
 
